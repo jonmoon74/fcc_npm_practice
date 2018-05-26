@@ -1,0 +1,19 @@
+{
+  "name": "@jonmoon74/fcc_files",
+  "version": "1.0.0",
+  "description": "Jon's fcc files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JonMoon74",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonmoon74/fcc_npm_practice.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jonmoon74/fcc_npm_practice/issues"
+  },
+  "homepage": "https://github.com/jonmoon74/fcc_npm_practice#readme"
+}
